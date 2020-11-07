@@ -1,3 +1,4 @@
+In English: https://github.com/biqinglin/apple_developer_issue/blob/main/README_EN.md
 #### 我是一位iOS开发者，目前在中国上海工作，我从2017年开始尝试在工作之余的时间，独立设计开发自己的产品，至今已经发布过6款应用，并且我的所有产品都是iOS平台独占
 #### 今天是2020年11.6日，周六，我像往常一样，早上八点就坐在电脑前，正在更新【旅行日记】（App ID：1440237237）应用，早上10 : 29分，我收到Apple发来的Notice of Termination，告知我我的开发者账号因为违反了Section 3.2(f) of the ADP Agreement被永久删除，并下架了所有应用，我当时都蒙了，我以为发错了邮件，急忙尝试登陆开发者后台，发现账号确实已经被删除，我很无助、很蒙，完全不知道我到底违反了什么条例，这个结果我是不能接受的，我从2017年开始踏入iOS开发这条路到今天，一直都严格遵守平台规则，即使是偶尔应用被拒，我也都是配合被拒原因去积极调整，所以针对此次我的开发者计划被终止，我希望能够得到一个合理的解释，希望各位能帮我转发，下面介绍我的应用：
 ![img](https://github.com/biqinglin/apple_developer_issue/blob/main/img0.png?raw=true)
