@@ -24,5 +24,3 @@ It's Saturday, 11.6, 2020, and I'm sitting at my computer at 8:00 a.m., as usual
 "You can record good memories during your travels, and it's hype recommended. You can save text, and pictures. It also supports export function".
 "A little artsy, clean and refreshing interface reminiscent of a summer breeze by the sea ......".
 On the road to iOS development, I've kept learning Apple's cutting-edge technologies and using them appropriately in my products, the two apps I'm currently maintaining [Penny Book] (App ID: 1244522074) and [Travel Diary] (App ID: 1440237237) are both based on Swift5+UIKit development. Although I'm not a full-time developer, I keep working every day when I come back from work and every weekend to continuously polish and improve the product features and experience to meet the needs of users and provide better service to them.
-
-Translated with www.DeepL.com/Translator (free version)
